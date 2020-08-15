@@ -1,3 +1,3 @@
-# code-entity-vypar
+# code-entity-vyapar
 
 A small business solution!
