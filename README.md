@@ -10,4 +10,4 @@ Github link for the implemented code -> https://github.com/venkateshkamath/vyapa
 
 Please do give it a check!
 
-A small business solution designed using HTML,CSS,Javascript,PHP,Bootstrap,jQuery. Deployed using infinityfreeapp!
+A small business solution designed using HTML,CSS,Javascript,PHP,Bootstrap,jQuery. Deployed using infinityfreeapp!!
