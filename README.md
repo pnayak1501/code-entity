@@ -1,6 +1,6 @@
 # code-entity-vyapar
 
-It is live on -> https://vyaparind.infinityfreeapp.com/ 
+View it is live on -> https://vyaparind.infinityfreeapp.com/ 
 
 Youtube video -> https://www.youtube.com/watch?v=8uUjJitqzoE&feature=youtu.be
 
